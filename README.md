@@ -1,4 +1,4 @@
-# Web-Scraping-Ecommerce-Bs4-Python
+# Web-Scraping-E-commerce-Bs4-Python
 Scraping of Bukalapak products
 Links website: https://www.bukalapak.com/
 Here's the example links: https://www.bukalapak.com/products?search%5Bkeywords%5D=shoes
